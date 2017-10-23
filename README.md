@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Writer
 
 This is a client side of writer.
@@ -16,8 +15,3 @@ Implemented function:
 - category
 
 All needed functions are completed. 
-
-
-=======
-# writer-server
->>>>>>> 45927f888c24dcb411b33269281a63409a8e01cc
