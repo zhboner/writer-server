@@ -1,0 +1,30 @@
+.main_container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.wrapper {
+    flex: 1 1 auto;
+}
+
+.header {
+    flex: 0 1 auto;
+
+    border-bottom: 1px solid rgba(157,157,157,0.65);
+    margin-bottom: 10px;
+}
+
+.footer {
+    flex: 0 1 auto;
+
+    margin-top: 40px;
+    text-align: center;
+    background-color: #3e3e3e;
+    color: #eeeeee;
+    font-size: 12px;
+}
+
+.footer a {
+    color: #eeeeee;
+}
